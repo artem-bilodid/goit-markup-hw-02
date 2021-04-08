@@ -30,6 +30,7 @@ body {
 }
 
 .link {
+  color: inherit;
   text-decoration: inherit;
 }
 
@@ -38,9 +39,7 @@ body {
   color: var(--accent-color);
 }
 
-.link:visited {
-  color: inherit;
-}
+
 
 .list {
   list-style: none;
